@@ -1,0 +1,5 @@
+main: me.benrobson8.FlightBooster.FlightBoosterMain
+name: FlightBooster
+version: 1.0
+author: Ben Robson
+api-version: 1.13
